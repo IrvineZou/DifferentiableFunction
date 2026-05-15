@@ -1,0 +1,12 @@
+scikit-learn==1.4.2
+numpy==1.26.4
+networkx==2.8.8
+torch-geometric==2.6.1
+
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+
+simanneal==0.5.0
+stable_baselines3
+#torch_scatter torch_sparse -f https://data.pyg.org/whl/torch-2.4.0+cu121.html
